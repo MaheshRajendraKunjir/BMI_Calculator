@@ -1,0 +1,4 @@
+#Fri Sep 18 09:46:27 IST 2020
+base.0=G\:\\Medicare\\BMI_Calculator_App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
